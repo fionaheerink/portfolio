@@ -1,2 +1,2 @@
-# portfolio
-Portfolio of data science projects (currently under development)
+# Data Science portfolio
+currently under development
