@@ -16,7 +16,7 @@ methods to country-level cause-of-death profiles from the Global Burden of Disea
 study. The goal is to identify countries with unusual mortality patterns and
 demonstrate robust, interpretable anomaly detection approaches.
 
-🔗 **Repository:** https://github.com/fionaheerink/gbd-anomaly-detection
+🔗 **See this project here:** https://github.com/fionaheerink/gbd-anomaly-detection
 
 ---
 
