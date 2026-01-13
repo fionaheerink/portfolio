@@ -20,7 +20,7 @@ demonstrate robust, interpretable anomaly detection approaches.
 
 ---
 
-**More projects will be added as they are updated and refined:**
+**I’m currently refining a few more projects, which I’ll be adding here soon:**
 
 - **Customer segmentation & clustering**  
   Elbow method, silhouette score, hierarchical clustering + dendrograms, PCA for dimensionality reduction and visualization.
