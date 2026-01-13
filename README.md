@@ -20,4 +20,19 @@ demonstrate robust, interpretable anomaly detection approaches.
 
 ---
 
-More projects will be added as they are updated and refined.
+## More projects will be added as they are updated and refined:
+
+- **Customer segmentation & clustering**  
+  Elbow method, silhouette score, hierarchical clustering + dendrograms, PCA for dimensionality reduction and visualization.
+
+- **Predictive modelling (supervised learning)**  
+  XGBoost and neural networks using StudyGroup data.
+
+- **NLP topic modelling of customer reviews**  
+  Topic modelling and insights from PureGym Group review data.
+
+- **Time-series forecasting**  
+  Sales and demand forecasting using Nielsen BookScan data.
+
+- **Employer Project — Bank of England (NLP + RAG)**  
+  Identifying language-based predictors of financial stress in the banking sector using unstructured transcript data, including retrieval-augmented generation (RAG).
