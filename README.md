@@ -34,5 +34,5 @@ demonstrate robust, interpretable anomaly detection approaches.
 - **Time-series forecasting**  
   Sales and demand forecasting using Nielsen BookScan data.
 
-- **Employer Project — Bank of England (NLP + RAG)**  
+- **Employer Project with Bank of England (NLP + RAG)**  
   Identifying language-based predictors of financial stress in the banking sector using unstructured transcript data, including retrieval-augmented generation (RAG).
