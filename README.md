@@ -1,6 +1,6 @@
 # Fiona Heerink Data Science Portfolio 
 
-Welcome! This repository serves as an overview of my data science projects.
+Welcome! This portfolio serves as an overview of my data science projects.
 My work focuses on exploratory data analysis, anomaly detection, and applied
 machine learning, with a special interest in health and social data.
 
