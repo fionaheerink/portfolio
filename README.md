@@ -53,6 +53,17 @@ This project analyses customer reviews from two platforms to identify common the
 
 🔗 **Link to project:** https://github.com/fionaheerink/nlp-topic-modelling
 
+### 5. Bank of England Employer Project – Earnings Call NLP + RAG (Group Project)
+**Tools:** Python, Pandas, HuggingFace, LangChain, Chroma, Sentence-Transformers, XGBoost  
+**Project type:** Industry-sponsored group project, completed as part of the Cambridge Career Accelerator in Data Science with AI and Machine Learning
+**Data:** Unstructured PDF-files from quarterly bank earnings calls, Q&A sessions.
+
+In this project, I collaborated in a diverse, online team of seven to analyse quarterly bank earnings call transcripts and explored whether language signals can complement prudential indicators such as CET1, LCR, NSFR and LDR. We investigated language signals as potential early warning-indicators, such as sentiment, disagreement, and evasiveness.
+
+My main responsibility was building the **Retrieval Augmented Generation (RAG)** component: chunking and embedding transcripts, storing them in a vector database, and creating a chatbot-style Q&A workflow with metadata-based retrieval from unstructured PDF data.
+
+**Link to project:** https://github.com/fionaheerink/nlp-employer-project
+
 ---
 
 ## More Projects (upcoming)
@@ -61,6 +72,3 @@ This project analyses customer reviews from two platforms to identify common the
 
 - **Time-series forecasting**  
   Sales and demand forecasting using Nielsen BookScan data.
-
-- **Employer Project with Bank of England (NLP + RAG)**  
-  Identifying language-based predictors of financial stress in the banking sector using unstructured transcript data, including retrieval-augmented generation (RAG).
