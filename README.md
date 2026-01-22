@@ -68,7 +68,5 @@ My main responsibility was building the **Retrieval Augmented Generation (RAG)**
 
 ## More Projects (upcoming)
 
-**I’m currently refining a few more projects, which I’ll be adding here soon:**
-
 - **Time-series forecasting**  
   Sales and demand forecasting using Nielsen BookScan data.
