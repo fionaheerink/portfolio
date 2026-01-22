@@ -33,7 +33,7 @@ This project builds an end-to-end customer segmentation pipeline using unsupervi
 
 🔗 **Link to project:** https://github.com/fionaheerink/customer-segmentation-clustering
 
-<img src="https://raw.githubusercontent.com/fionaheerink/customer-segmentation-clustering/main/customer_clusters_tsne.png" width="750">
+<img src="https://raw.githubusercontent.com/fionaheerink/customer-segmentation-clustering/main/customer_clusters_tsne.png" width="600">
 
 ---
 
