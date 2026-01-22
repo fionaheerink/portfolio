@@ -25,9 +25,9 @@ demonstrate robust, interpretable anomaly detection approaches.
 ## Other Projects
 
 ### 2. Customer Segmentation with Clustering  
-Techniques: Feature engineering, K-Means, elbow method, silhouette score, hierarchical clustering + dendrogram, PCA, t-SNE  
-Tools: Python, pandas, scikit-learn, Matplotlib, Seaborn, SciPy  
-Data: E-commerce transactions dataset
+**Techniques:** Feature engineering, K-Means, elbow method, silhouette score, hierarchical clustering + dendrogram, PCA, t-SNE  
+**Tools:** Python, pandas, scikit-learn, Matplotlib, Seaborn, SciPy  
+**Data:** E-commerce transactions dataset
 
 This project builds an end-to-end customer segmentation pipeline using unsupervised learning. I engineered customer-level behavioural features and compared multiple clustering validation methods to identify meaningful customer groups.
 
@@ -35,17 +35,23 @@ This project builds an end-to-end customer segmentation pipeline using unsupervi
 
 <img src="https://raw.githubusercontent.com/fionaheerink/customer-segmentation-clustering/main/customer_clusters_tsne.png" width="600">
 
+### 3. Predictive Modelling (Supervised Learning)
+**Techniques:** EDA, preprocessing, one-hot encoding, train-test split, XGBoost, neural networks, hyperparameter tuning, model evaluation, feature importance  
+**Tools:** Python, pandas, scikit-learn, XGBoost, TensorFlow/Keras  
+**Data:** Proprietary business dataset (not publicly shareable)
+
+This project compares supervised learning approaches for predicting an outcome variable using structured business data. Models were evaluated using accuracy, precision, recall, F1-score, confusion matrix, ROC curve, and AUC. Feature importance visualisations were used to support interpretation, and model performance was compared across different feature sets.
+
+🔗 **Link to project:** https://github.com/fionaheerink/supervised-learning-predictive
+
 ---
 
 ## More Projects (upcoming)
 
 **I’m currently refining a few more projects, which I’ll be adding here soon:**
 
-- **Predictive modelling (supervised learning)**  
-  XGBoost and neural networks using StudyGroup data.
-
 - **NLP topic modelling of customer reviews**  
-  Topic modelling and insights from PureGym Group review data.
+  Topic modelling and insights from customer review data.
 
 - **Time-series forecasting**  
   Sales and demand forecasting using Nielsen BookScan data.
