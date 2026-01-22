@@ -18,12 +18,28 @@ demonstrate robust, interpretable anomaly detection approaches.
 
 🔗 **See this project here:** https://github.com/fionaheerink/gbd-anomaly-detection
 
+![Preview of IQR outlier map](https://raw.githubusercontent.com/fionaheerink/gbd-anomaly-detection/main/docs/figures/map_IQR_preview.png)
+
 ---
 
-**I’m currently refining a few more projects, which I’ll be adding here soon:**
+## Other Projects
 
-- **Customer segmentation & clustering**  
-  Elbow method, silhouette score, hierarchical clustering + dendrograms, PCA for dimensionality reduction and visualization.
+### 2. Customer Segmentation with Clustering  
+Techniques: Feature engineering, K-Means, elbow method, silhouette score, hierarchical clustering + dendrogram, PCA, t-SNE  
+Tools: Python, pandas, scikit-learn, Matplotlib, Seaborn, SciPy  
+Data: E-commerce transactions dataset
+
+This project builds an end-to-end customer segmentation pipeline using unsupervised learning. I engineered customer-level behavioural features and compared multiple clustering validation methods to identify meaningful customer groups.
+
+🔗 **Link to project:** https://github.com/fionaheerink/customer-segmentation-clustering
+
+<img src="https://raw.githubusercontent.com/fionaheerink/customer-segmentation-clustering/main/customer_clusters_tsne.png" width="750">
+
+---
+
+## More Projects (upcoming)
+
+**I’m currently refining a few more projects, which I’ll be adding here soon:**
 
 - **Predictive modelling (supervised learning)**  
   XGBoost and neural networks using StudyGroup data.
