@@ -55,7 +55,7 @@ This project analyses customer reviews from two platforms to identify common the
 
 ### 5. Bank of England Employer Project – Earnings Call NLP + RAG (Group Project)
 **Tools:** Python, Pandas, HuggingFace, LangChain, Chroma, Sentence-Transformers, XGBoost  
-**Project type:** Industry-sponsored group project, completed as part of the Cambridge Career Accelerator in Data Science with AI and Machine Learning
+**Project type:** Industry-sponsored group project, completed as part of the Cambridge Career Accelerator in Data Science with AI and ML  
 **Data:** Unstructured PDF-files from quarterly bank earnings calls, Q&A sessions.
 
 In this project, I collaborated in a diverse, online team of seven to analyse quarterly bank earnings call transcripts and explored whether language signals can complement prudential indicators such as CET1, LCR, NSFR and LDR. We investigated language signals as potential early warning-indicators, such as sentiment, disagreement, and evasiveness.
