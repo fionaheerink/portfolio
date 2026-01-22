@@ -44,14 +44,20 @@ This project compares supervised learning approaches for predicting an outcome v
 
 🔗 **Link to project:** https://github.com/fionaheerink/supervised-learning-predictive
 
+### 4. NLP Topic Modelling of Customer Reviews
+**Techniques:** text cleaning, tokenisation, stopword removal, word frequency analysis, word clouds, filtering negative reviews, BERTopic, clustering visualisations, emotion classification (BERT), Phi4-mini-instruct LLM-based topic extraction and recommendations, LDA (Gensim)  
+**Tools:** Python, pandas, NLTK, BERTopic, Hugging Face Transformers, Gensim, Matplotlib/Seaborn, Plotly  
+**Data:** Proprietary review data (not publicly shareable)
+
+This project analyses customer reviews from two platforms to identify common themes and recurring issues, with a focus on negative feedback. Topic modelling and emotion analysis were used to explore patterns across locations and to compare results across multiple modelling approaches. An LLM was used with prompt-based topic extraction to produce recommendations aligned with the most frequent topics.
+
+🔗 **Link to project:** https://github.com/fionaheerink/nlp-topic-modelling
+
 ---
 
 ## More Projects (upcoming)
 
 **I’m currently refining a few more projects, which I’ll be adding here soon:**
-
-- **NLP topic modelling of customer reviews**  
-  Topic modelling and insights from customer review data.
 
 - **Time-series forecasting**  
   Sales and demand forecasting using Nielsen BookScan data.
