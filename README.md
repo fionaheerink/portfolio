@@ -63,10 +63,3 @@ In this project, I collaborated in a diverse, online team of seven to analyse qu
 My main responsibility was building the **Retrieval Augmented Generation (RAG)** component: chunking and embedding transcripts, storing them in a vector database, and creating a chatbot-style Q&A workflow with metadata-based retrieval from unstructured PDF data.
 
 **Link to project:** https://github.com/fionaheerink/nlp-employer-project
-
----
-
-## More Projects (upcoming)
-
-- **Time-series forecasting**  
-  Sales and demand forecasting using Nielsen BookScan data.
